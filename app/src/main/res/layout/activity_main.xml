@@ -14,13 +14,19 @@
         android:layout_height="70dp"
         android:scaleType="centerCrop"/>
 
+
     <EditText
         android:id="@+id/fullname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Full Name"
         android:textSize="20dp"
+        android:textColor="@color/black"
+        android:textColorHighlight="@color/purple_200"
         android:layout_below="@+id/imageView"/>
+
+    <!--android:text="@string/full_name"-->
+
 
     <EditText
         android:id="@+id/emailaddress"
@@ -30,6 +36,7 @@
         android:layout_marginTop="40dp"
         android:textSize="20dp"
         android:layout_below="@id/fullname"/>
+
 
     <EditText
         android:id="@+id/dateofbirth"

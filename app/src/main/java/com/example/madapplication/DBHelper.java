@@ -1,4 +1,4 @@
-package com;
+package com.example.madapplication;
 
 import android.content.ContentValues;
 import android.content.Context;
