@@ -1,16 +1,14 @@
-package com;
+package com.example.madapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.madapplication.R;
-
-public class MyTimelineActivity extends AppCompatActivity {
+public class PostActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_my_timeline);
+        setContentView(R.layout.activity_post);
     }
 }

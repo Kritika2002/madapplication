@@ -9,8 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.MyTimelineActivity;
-
 public class LoginActivity extends AppCompatActivity {
 
     EditText username,password;

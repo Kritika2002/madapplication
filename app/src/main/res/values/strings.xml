@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">madapplication</string>
+    <string name="profile_text_view">My Profile Page</string>
+    <string name="goto_login">Login</string>
+    <string name="goto_register">Register</string>
+    <string name="main_title">Login or Register to enter!</string>
+    <string name="edit_post_title">Enter Post Title</string>
+    <string name="edit_post_body">Enter Post Body
+
+
+
+
+
+
+
+
+    </string>
+    <string name="post_title">Placeholder Post Title</string>
+    <string name="post_body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu condimentum tortor. Phasellus congue, lacus et dapibus cursus, ipsum turpis semper diam, et pellentesque odio libero eu justo. Duis quam nulla, dignissim ac tortor a, ornare placerat sapien. Aenean et sollicitudin tortor. Ut eget dui vel ipsum cursus volutpat ac quis lectus. Aliquam consectetur sollicitudin faucibus. Duis rhoncus turpis eu tellus tempus pharetra. Donec pretium consectetur ultricies. Donec nulla massa, pharetra sit amet pellentesque nec, pretium sit amet nibh. Etiam cursus accumsan sem vitae interdum. Fusce vel lacinia lorem. Ut hendrerit massa sed viverra feugiat. Sed tempus pretium rutrum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non mi non massa feugiat lacinia et eget nisl. Quisque et sem dui.</string>
+    <string name="goto_post">Create a Post</string>
 </resources>

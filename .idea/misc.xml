@@ -6,6 +6,9 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2578125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18813629150390626" />
         <entry key="app/src/main/res/layout/activity_my_timeline.xml" value="0.13858695652173914" />
+        <entry key="app/src/main/res/layout/activity_post.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.14791666666666667" />
+        <entry key="app/src/main/res/layout/post_list_view.xml" value="0.2446043165467626" />
       </map>
     </option>
   </component>

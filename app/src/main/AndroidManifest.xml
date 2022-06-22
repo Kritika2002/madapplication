@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Madapplication">
         <activity
-            android:name="com.MyTimelineActivity"
+            android:name=".PostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyTimelineActivity"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
